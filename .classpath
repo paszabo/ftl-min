@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="freemarker.jar" sourcepath="freemarker-2.3.19/"/>
+	<classpathentry kind="lib" path="yuicompressor-2.4.7.jar"/>
+	<classpathentry kind="lib" path="htmlcompressor-1.5.3/bin/htmlcompressor-1.5.3.jar"/>
+	<classpathentry kind="lib" path="htmlcompressor-1.5.3/lib/compiler.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
